@@ -1,0 +1,8 @@
+﻿  Color.cpp
+  main.cpp
+main.cpp(250): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+main.cpp(251): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  All 145 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Mandelbrot.vcxproj -> C:\Users\umpir\Documents\Visual Studio 2015\Projects\Mandelbrot\Release\Mandelbrot.exe
